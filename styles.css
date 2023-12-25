@@ -1,0 +1,124 @@
+body {
+    background-color: hsl(235, 46%, 20%);
+}
+* {
+    margin: 0;
+    padding: 0;
+}
+.section1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 600px;
+    
+}
+.div1 {
+    display: flex;
+    margin-left: -10px;
+}
+.section2 {
+    width: 20%;
+    height: 535px;
+    background-color: hsl(226, 43%, 10%);
+    border-radius: 20px;
+    justify-content: left;
+    margin-top: 30px;
+    
+}
+.section2 img {
+    height: 145px;
+    
+
+}
+.Report {
+    background-color: hsl(235, 45%, 61%);
+    width: 89%;
+    border-radius: 10px;
+    height: 350px;
+    justify-content: left;
+    display: grid;
+    padding-top: 20px;
+    padding-left: 30px;
+}
+.Report h4 {
+    color: hsl(236, 100%, 87%);
+    font-size: 20px;
+    
+}
+.Report h2 {
+    font-size: 45px;
+    color: white;
+    margin-top: -20px;
+}
+.daily h3{
+    padding-top: 25px;
+    padding-left: 30px;
+    color: hsl(235, 45%, 61%);
+}
+.spec {
+    margin-left: 30px;
+    width: 90%;
+    border-radius: 10px;
+    height: 200px;
+    
+    background-color: hsl(15, 100%, 70%);
+}
+.specimg {
+    background-color:  hsl(15, 100%, 70%);
+    height: 60px;
+    overflow: hidden;
+    border-radius: 10px;
+    display: flex;
+    justify-content: right;
+}
+.specimg img {
+       height: 90px; 
+        
+}
+.work {
+    background-color: hsl(226, 43%, 10%);
+    height: 170px;
+    color: white;
+    border-radius: 10px;
+    font-family: sans-serif;
+    font-weight: 500;
+}
+.work span {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 15px;
+    margin: 0 15px;
+
+}
+.work h2 {
+    font-size: 20px;
+}
+.work span img {
+    height: 7px;
+}
+.work h1 {
+    font-size: 60px;
+    margin-left: 15px;
+    margin-right: 10px;
+}
+.work h3 {
+    font-size: 15px;
+    margin-left: 15px;
+    margin-top: 10px;
+    color: hsl(236, 100%, 87%);
+}
+.div2 {
+    display: flex;
+    margin-top: 70px;
+
+}
+.div2 nav {
+    margin-left: 20px;
+}
+.section3 {
+    display: flexbox;
+    align-items: center;
+    justify-content: center;
+    width: 50%;
+}
