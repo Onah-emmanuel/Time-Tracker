@@ -1,0 +1,36 @@
+@media screen and (max-width: 851px) {
+    .section1 {
+        display: block;
+        
+        
+    }
+    .section2 {
+        width: 90%;
+        margin: 10% 5%;
+        
+        
+    }
+    .Report {
+        width: 91%;
+    }
+    .section3 {
+        flex-wrap: wrap;
+        width: 90%;
+        margin-left: 6%;
+    }
+    .div1 {
+        flex-wrap: wrap;
+    }
+    .div2 {
+        flex-wrap: wrap;
+        margin-top: 5px;
+        width: 100%;
+        padding-right: 0;
+
+        
+    }
+    .spec {
+        margin-bottom: 50px;
+        width: 85%;
+    }
+}
